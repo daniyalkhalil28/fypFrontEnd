@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421340518840",
+    "project_id": "smart-derm-f9461",
+    "storage_bucket": "smart-derm-f9461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421340518840:android:55f73d4b377e8ee40b174d",
+        "android_client_info": {
+          "package_name": "com.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421340518840-uabc77e52fpld48flt0vgrmqb4gmlif4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ULSEVEJlkGGUsrSEopymyI6TxCJof3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421340518840-uabc77e52fpld48flt0vgrmqb4gmlif4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
